@@ -15,8 +15,8 @@ google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 # baseurl: /jasper/
-baseurl: ""
-short_url: "Hyunwoo-Bae.github.io"
+baseurl: "/Hyunwoo-Bae"
+short_url: "https://bhw6217.github.io/Hyunwoo-Bae/"
 
 # Permalinks
 permalink: /:title
