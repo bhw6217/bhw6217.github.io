@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Hyunwoo Bae"
 description              : &description "Undergraduate Student"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/bhw-c20021224
+  linkedin         : www.linkedin.com/in/bhw-c20021224
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
