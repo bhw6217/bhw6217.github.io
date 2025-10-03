@@ -15,8 +15,8 @@ google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 # baseurl: /jasper/
-baseurl: "/Hyunwoo-Bae"
-short_url: "https://bhw6217.github.io/Hyunwoo-Bae/"
+baseurl: ""
+short_url: "bhw6217.github.io"
 
 # Permalinks
 permalink: /:title
@@ -52,8 +52,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  "https://bhw6217.github.io/"
+source_url:  "https://github.com/bhw6217/bhw6217.github.io/"
 
 exclude:
   - README.md
