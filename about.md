@@ -3,7 +3,22 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+
+## 2025
+
+### An Audio-Visual Framework for Transcription and Fingering Optimization in Bass Guitar Performance
+
+#### **Hyunwoo Bae**, Taegyun Kwon, Eunji Park
+
+#### ACM UIST 2025 Poster
+
+[Link to PDF](https://dl.acm.org/doi/pdf/10.1145/3746058.3758448).
+
+---
+
+
+
+<!-- ## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -202,4 +217,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-{% endhighlight %}
+{% endhighlight %} -->
