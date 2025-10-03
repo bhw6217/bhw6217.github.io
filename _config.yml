@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Hyunwoo Bae."
 email: 'tlth1224@cau.ac.kr'
-description: "I am an HCI researcher and a undergraduate student at the Chung-Ang University, advised by Prof. Eunji Park"
+description: "I am an HCI researcher and a undergraduate student in School of Computer Science and Engineering at the Chung-Ang University, advised by Prof. Eunji Park"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bhw6217.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://hyunwoo.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
 # github_username: 'jamigibbs'
 # medium_username: 'blog.jamigibbs.com'
